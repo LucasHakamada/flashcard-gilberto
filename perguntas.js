@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Anime Ao Ashi',
+    'quem é ao ashi?',
+    'Ashito Aoi é um jovem aspirante a jogador de futebol de uma cidade atrasada no Japão. '
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Anime Ao Ashi',
+    'após o técnico conversar com Ao Ashi ele fica em que posição no time?',
+    'Lateral esquerdo'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Anime Ao Ashi',
+    'o que o técnico viu de tão importante em Ao Ashi?',
+    'A visão de jogo'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Anime Ao Ashi',
+    'por que ele quis virar jogador de futebol?',
+    'para ajudar a família dele financeiramente '
 )
